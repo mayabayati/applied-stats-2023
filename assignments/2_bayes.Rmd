@@ -6,7 +6,7 @@ output:
 fontsize: 11pt
 ---
 
-**Due:** 11:59pm ET, March 4 
+**Due:** 11:59pm ET, March 10 
 
 **What to hand in:** .Rmd or .qmd file and the compiled pdf, and any stan files
 
