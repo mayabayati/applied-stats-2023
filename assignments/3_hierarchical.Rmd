@@ -47,4 +47,45 @@ where $\hat{p}^{\text{MR}}_{g[a]}$ is the proportion of women in group $g$ who a
 
 f) The true proportions of women wanting more children by age group are listed in `fertility_intentions_true`. Report the absolute difference by age group for each of the estimates $\hat{p}^{\text{raw}}_a$, $\hat{p}^{\text{ps}}_a$ and $\hat{p}^{\text{MRP}}_a$, as well as the mean absolute difference across all age groups. Comment on what you observe based on the relative performance of each of the estimation approaches. 
 
+\newpage
+
+# Research proposal
+
+The final project for this class involves exploring a research question that you are interested in using a dataset of your choice. For the research proposal, I'm interested in finding out about your topic, and seeing some EDA based on your dataset of choice. Please describe 
+
+- your research question(s) of interest, and why they are of interest (if there's an obvious literature, feel free to cite a few papers)
+- the dataset you plan to use
+- your main dependent variable of interest
+- your main independent variables of interest (including control variables)
+- an indication of the methods/model you plan to use/run
+
+
+## Exploratory data analysis
+
+As part of your research proposal please undertake some basic EDA to illustrate the characteristics of your dataset, patterns in the raw data, and to present descriptive statistics related to your data and your research question. 
+
+There is no set format, but here are a few pointers of things to look at
+
+- **General characteristics of dataset** and **summary statistics of variables of interest**: for example, how many observations, how were the data collected (is the dataset representative of the population of interest?); you could present a table of summary statistics of main variables, including things like number of observations, mean/median/sd (if a continuous variable), proportions by group, etc...
+- **Missing data**: If your dataset does not have any missing observations, then fine to just say this (don't need to do EDA graphs or discuss). If you have missing observations, summarize what is missing, and give a brief discussion about whether or not you think missingness may be a problem (e.g. is there more likely to be missing data for some groups compared to others?)
+- **Graphs showing both univariate and bivariate patterns**: likely to be interested in both univariate patterns (e.g., the distribution of continuous variables, proportions for categorical outcomes...) and bivariate patterns (e.g. scatterplots, proportions/boxplots by group, trends over time...).
+
+While you'll probably make a lot of graphs/summaries etc while doing EDA, you don't have to submit everything --- just a few key observations. The proposal only needs to be 2-3 pages total (including graphs). 
+
+## What to submit
+
+It is expected that you present and write up your findings in Rmd. You should submit:
+
+- your .Rmd/.qmd file; and
+- the knitted PDF resulting from your .Rmd/.qmd file file. 
+
+If your dataset is reasonably small (and publicly available), then it would be great if you could submit that, too. 
+
+Please submit files via Quercus, in a separate document to your assignment. 
+
+
+
+
+
+
 
